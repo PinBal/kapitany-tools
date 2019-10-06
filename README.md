@@ -9,8 +9,8 @@ wmszki Kapitány tanár úr weboldalához ilyen szarok xddddd
 
 
 # követelmények:
-requests
-time
+requests,
+time,
 pathlib
 
 # hasznalati utasitas buta geciknek:
