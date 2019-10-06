@@ -8,7 +8,7 @@ wmszki Kapitány tanár úr weboldalához ilyen szarok xddddd
 2. ....
 
 
-hasznalati utasitas buta geciknek:
+# hasznalati utasitas buta geciknek:
 
 1. töltsd le a zip-et (vagy git clone de ha ezt olvasod valszeg azt se tudod miaz) majd csomagold ki ahova akarod!
 2. telepíts python 3-at a https://www.python.org/-ról 
